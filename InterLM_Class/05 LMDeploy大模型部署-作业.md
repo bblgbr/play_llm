@@ -23,5 +23,5 @@ lmdeploy serve gradio http://0.0.0.0:23333 \
 lmdeploy serve gradio ./workspace
 ```
 
-![](assets/05%20LMDeploy大模型部署-作业/image-20240121160831943.png)
+![](./imgs/image-20240121160831943.png)
 
